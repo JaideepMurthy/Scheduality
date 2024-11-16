@@ -51,4 +51,4 @@ Follow the steps below to set up and run **Scheduality** locally:
 5. **Open the Application**  
    Open your web browser and go to http://localhost:3000 to see the application in action.
 
-### Live Demo of the Application: Link
+### Live Demo of the Application: https://drive.google.com/file/d/1ueOJGNSWn3oPTqNdDYGDbhF--x7j6b1o/view?usp=sharing
