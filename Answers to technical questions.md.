@@ -34,6 +34,6 @@ Yes, I’ve done this before. For example, I used logs to find a slow API call i
 Q4. If you had more time, what additional features or improvements would you consider adding to the task management application?
 
 A4. If I had more time I would implement mainly some UI/UX features, basically more user friendly and fun to use. Add Animations and Graphics, of course not over complicating it but making sure my user are having a positive experience with my software.  
-I would also implement user account creation and Display Customization, based on User Preference. 
-Offline capabilities. 
-Option to use applications of Different Devices. 
+I. I would also implement user account creation and Display Customization, based on User Preference. 
+II. Offline capabilities. 
+III. Option to use applications of Different Devices. 
