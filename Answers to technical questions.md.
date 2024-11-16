@@ -3,6 +3,7 @@ Q1. How long did you spend on the coding test? 
 A1. Overall it took me 4 hours to build the project management application. I’m terms of Actual development it took me only 2 hours to make it, but planning the architecture, design, features and testing took me another 2 hours.
 
 
+
 Q2. What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
 
 A2. In the code file page.tsx, the most useful feature, I have added in my opinion is Partial<Task> type for the newTask state. This is significant for several reasons:
@@ -15,6 +16,8 @@ Here is a code snippet -  (line 41) const [newTask, setNewTask] = useState<Parti
 This ensures:
 I. Developers can update individual fields incrementally (title, description, priority) without violating TypeScript constraints.
 II. The final task object is validated upon submission, ensuring all required fields are populated.
+
+
 
 Q3. How would you track down a performance issue in production? Have you ever had to do this?
 
@@ -29,6 +32,7 @@ III.Test and Fix: Try to recreate the problem in a test environment, find the ca
 IV.Monitor After Fixing: Watch the system after applying the fix to make sure it’s running smoothly.
 
 Yes, I’ve done this before. For example, I used logs to find a slow API call in production, improved the code to handle requests faster, and ensured the fix worked by monitoring the system afterward.
+
 
 
 Q4. If you had more time, what additional features or improvements would you consider adding to the task management application?
