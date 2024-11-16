@@ -30,20 +30,17 @@ Follow the steps below to set up and run **Scheduality** locally:
    ```bash
    git clone https://github.com/JaideepMurthy/Scheduality.git
 
-
 2. **Navigate to the Project Directory**  
    Change to the project directory:
 
    ```bash
    cd Scheduality
 
-
 3. **Install Dependencies**  
    Install the necessary dependencies using npm:
 
    ```bash
    npm install
-
 
 4. **Start the Development Server**  
    Once the dependencies are installed, start the development server:
