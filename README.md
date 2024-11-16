@@ -1,5 +1,5 @@
 # Scheduality
-## Coding Test - EliteFit.AI
+## Simple Task Manager
 
 ### Overview of the Project
 
@@ -19,3 +19,14 @@ The app emphasizes real-time updates, making it a useful tool for personal task 
 - **TypeScript**: For type safety and better development experience.
 - **React**: For building the user interface.
 - **localStorage**: For storing tasks persistently.
+
+### Instructions to Run the Project
+
+Follow the steps below to set up and run **Scheduality** locally:
+
+1. **Clone the Repository**  
+   Clone the repository to your local machine using Git:
+
+   ```bash
+   git clone https://github.com/JaideepMurthy/Scheduality.git
+
